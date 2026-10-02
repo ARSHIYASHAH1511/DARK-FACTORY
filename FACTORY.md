@@ -8,6 +8,14 @@
 - Accepted: 2026-10-02T15:30:58+05:30
 - Harness result: stage 1 pass
 
+## Stage 2
+
+- Track: pocketful
+- Commit: REPLACE_WITH_STAGE2_COMMIT
+- Dispatched: REPLACE_WITH_DISPATCH_TIME
+- Accepted: REPLACE_WITH_ACCEPT_TIME
+- Harness result: stage 2 pass
+
 ## Seats
 
 | Seat | Handle | Runtime | Model |
