@@ -11,9 +11,9 @@
 ## Stage 2
 
 - Track: pocketful
-- Commit: REPLACE_WITH_STAGE2_COMMIT
-- Dispatched: REPLACE_WITH_DISPATCH_TIME
-- Accepted: REPLACE_WITH_ACCEPT_TIME
+- Commit: 2c93883
+- Dispatched: 2026-10-02T17:00:00+05:30
+- Accepted: 2026-10-02T17:30:00+05:30
 - Harness result: stage 2 pass
 
 ## Seats
