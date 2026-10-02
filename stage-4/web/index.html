@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0f0f0f">
+<title>Pocketful</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%236366f1'/%3E%3Cpath d='M9 12h14v10H9z' fill='none' stroke='white' stroke-width='2'/%3E%3C/svg%3E">
+<link rel="preload" href="/static/inter.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body class="bg-[#0f0f0f] text-neutral-100 antialiased">
+<div class="min-h-screen md:pl-64">
+  <header class="sticky top-0 z-30 flex items-center justify-between gap-3 border-b border-white/5 bg-[#0f0f0f]/95 px-4 py-3 backdrop-blur">
+    <a href="/" class="flex items-center gap-2 font-extrabold text-white no-underline" aria-label="Pocketful home">
+      <span class="grid h-8 w-8 place-items-center rounded-lg bg-[#6366f1]">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="6" width="18" height="14" rx="3"/><path d="M3 10h18M16 15h2"/></svg>
+      </span>
+      <span class="hidden text-lg tracking-tight sm:inline md:hidden">Pocketful</span>
+    </a>
+    <div id="userbar" class="flex min-w-0 items-center gap-2"></div>
+  </header>
+  <main id="app" class="mx-auto w-full max-w-5xl px-4 pb-28 pt-6 md:pb-12"></main>
+</div>
+<nav id="nav" aria-label="Main" class="fixed inset-x-0 bottom-0 z-40 flex border-t border-white/10 bg-[#141414] md:inset-y-0 md:right-auto md:w-64 md:flex-col md:gap-1 md:border-r md:border-t-0 md:p-4"></nav>
+<noscript><p class="p-6">Pocketful needs JavaScript to run.</p></noscript>
+<script src="/static/app.js" defer></script>
+</body>
+</html>
