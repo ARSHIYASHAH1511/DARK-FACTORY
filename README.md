@@ -91,8 +91,9 @@ cd ~/dark-factory-wearedevs
 | Stage 1 | `4ab8d5bff34a56a9e26e3cd03772428a1945d0ba` |
 | Stage 2 | `2c93883` |
 | Stage 3 | `37614cfb887f4e38dd5c59151f5b9e9454a2f994` |
-| Stage 4 | `e118bf33b7d50d7ad2d6ceed0b51b6a3d148a9d4` |
-![DARK-FACTORY Architecture](./AI Agent Factory Architecture and Stage Timeline.png)
+| Stage 4 | `e118bf33b7d50d7ad2d6ceed0b51b6a3d148a9d4` |## Architecture
+
+![DARK-FACTORY Architecture](./AI%20Agent%20Factory%20Architecture%20and%20Stage%20Timeline.png)
 
 ---
 
