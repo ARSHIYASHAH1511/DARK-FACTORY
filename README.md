@@ -92,6 +92,7 @@ cd ~/dark-factory-wearedevs
 | Stage 2 | `2c93883` |
 | Stage 3 | `37614cfb887f4e38dd5c59151f5b9e9454a2f994` |
 | Stage 4 | `e118bf33b7d50d7ad2d6ceed0b51b6a3d148a9d4` |
+![DARK-FACTORY Architecture](./architecture.png)
 
 ---
 
